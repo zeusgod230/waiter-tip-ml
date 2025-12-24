@@ -90,16 +90,13 @@ waiter-tip-prediction/
 ├── notebooks/
 │ └── waiter_tip_prediction.ipynb
 │
-├── src/
-│ └── model.py
-│
 ├── README.md
 └── requirements.txt
 ```
 ### 📌 Future Improvements
-``` bash
+---
 1. Use Random Forest or XGBoost
 2. Build a Streamlit / Flask web app
 3. Add feature importance analysis
 4. Deploy model online
-```
+---
